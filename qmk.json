@@ -1,7 +1,7 @@
 {
     "userspace_version": "1.0",
     "build_targets": [
-        ["bastardkb/charybdis/4x6", "vendor"],
-        ["bastardkb/charybdis/4x6", "i5nipe"]
+        ["bastardkb/charybdis/4x6/splinktegrated_rev1", "vendor"],
+        ["bastardkb/charybdis/4x6/splinktegrated_rev1", "i5nipe"]
     ]
 }

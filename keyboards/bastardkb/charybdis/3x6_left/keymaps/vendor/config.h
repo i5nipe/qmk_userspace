@@ -1,5 +1,5 @@
 /**
- * Copyright 2021 Charly Delay <charly@codesink.dev> (@0xcharly)
+ * Copyright 2022 Charly Delay <charly@codesink.dev> (@0xcharly)
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -34,12 +34,12 @@
 #ifdef LED_DPI_INDICATOR_INDEX
 #undef LED_DPI_INDICATOR_INDEX
 #endif
-#define LED_DPI_INDICATOR_INDEX 1 // accomodate invisible 2 first LEDs for easier DIY build debugging
+#define LED_DPI_INDICATOR_INDEX 0
 
 #ifdef RGBLIGHT_LED_COUNT
 #undef RGBLIGHT_LED_COUNT
 #endif
-#define RGBLIGHT_LED_COUNT 56
+#define RGBLIGHT_LED_COUNT 41
 
 /* Charybdis-specific features. */
 
